@@ -1,1 +1,1 @@
-feature3 is edited from GitHub
+feature3 is edited from GitHub and reverted
